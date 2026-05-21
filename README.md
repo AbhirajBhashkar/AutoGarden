@@ -20,4 +20,4 @@ May 19th:
 Attempted to set up ESPHOME on Home Assistant. Experienced issues with connecting, will try again later.
 
 May20th:
-Established Radio connection with another ESP32 with the same radio module. Able to send test messages to count. Very few error signals.
+Established Radio connection with another ESP32 with the same radio module. Able to send test messages to count. Very few error signals. Successfully transmitted and received packetized data including RSSI/SNR metrics.
