@@ -190,7 +190,7 @@ Several enclosure revisions were produced to improve component clearance, assemb
 
 <img src="images/AssemblyDrawing.png"
      alt="AutoGarden Mk-3 enclosure engineering drawing"
-     width="300">
+     width="600">
 
 ---
 
