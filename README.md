@@ -168,7 +168,9 @@ Subsystems were tested individually before integration.
 
 ## Mechanical Design
 
-![AutoGarden Enclosure](images/enclosureview.png)
+<img src="images/enclosureview.png"
+     alt="AutoGarden Mk-3 enclosure"
+     width="900">
 
 A custom enclosure was designed alongside the PCB and manufactured using FDM 3D printing.
 
@@ -186,7 +188,9 @@ The enclosure includes:
 
 Several enclosure revisions were produced to improve component clearance, assembly, sensor airflow, and serviceability.
 
-![AutoGarden Enclosure](images/AssemblyDrawing.png)
+<img src="images/AssemblyDrawing.png"
+     alt="AutoGarden Mk-3 enclosure engineering drawing"
+     width="900">
 
 ---
 
