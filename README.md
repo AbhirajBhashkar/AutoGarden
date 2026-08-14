@@ -186,7 +186,7 @@ The enclosure includes:
 
 Several enclosure revisions were produced to improve component clearance, assembly, sensor airflow, and serviceability.
 
-![AutoGarden Enclosure](images/Assembly Drawing.png)
+![AutoGarden Enclosure](images/AssemblyDrawing.png)
 
 ---
 
